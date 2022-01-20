@@ -1,0 +1,32 @@
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\DAL\bin\Debug\DAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\DAL\bin\Debug\DAL.pdb
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\DAL\obj\Debug\DAL.dll
+C:\Users\ShabeerM\Desktop\ThreeTierStructure\ThreeTierStructure\DAL\obj\Debug\DAL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\DAL\bin\Debug\DAL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\DAL\bin\Debug\DAL.pdb
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\DAL\obj\Debug\DAL.dll
+D:\Blogging\Youtube\Techcybo\Series\3 Tier\Working\ThreeTierStructure\DAL\obj\Debug\DAL.pdb
+F:\ThreeTierStructure\DAL\bin\Debug\DAL.dll
+F:\ThreeTierStructure\DAL\bin\Debug\DAL.pdb
+F:\ThreeTierStructure\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\ThreeTierStructure\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\ThreeTierStructure\DAL\obj\Debug\DAL.dll
+F:\ThreeTierStructure\DAL\obj\Debug\DAL.pdb
+C:\Users\admin\source\repos\Game Caro\DAL\bin\Debug\DAL.dll
+C:\Users\admin\source\repos\Game Caro\DAL\bin\Debug\DAL.pdb
+C:\Users\admin\source\repos\Game Caro\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Game Caro\DAL\obj\Debug\DAL.dll
+C:\Users\admin\source\repos\Game Caro\DAL\obj\Debug\DAL.pdb
+C:\Users\admin\source\repos\Game Caro\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\DAL\bin\Debug\DAL.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\DAL\bin\Debug\DAL.pdb
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\DAL\obj\Debug\DAL.dll
+F:\Phát Triển Phần Mềm Ứng Dụng\Game Caro\DAL\obj\Debug\DAL.pdb
+D:\LAB-KTPM\ProjectKTPM\DAL\bin\Debug\DAL.dll
+D:\LAB-KTPM\ProjectKTPM\DAL\bin\Debug\DAL.pdb
+D:\LAB-KTPM\ProjectKTPM\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\LAB-KTPM\ProjectKTPM\DAL\obj\Debug\DAL.dll
+D:\LAB-KTPM\ProjectKTPM\DAL\obj\Debug\DAL.pdb
+D:\LAB-KTPM\ProjectKTPM\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
